@@ -1,4 +1,10 @@
 # Home_Loan_wizard
+![Screenshot 2024-07-16 230707](https://github.com/user-attachments/assets/9749341e-f32e-461d-a902-46b84c3a1829)
+![Screenshot 2024-07-16 230755](https://github.com/user-attachments/assets/840dd958-312a-4c09-a0b7-b5f7986bf3d6)
+# Mobile View
+![Screenshot 2024-07-16 231012](https://github.com/user-attachments/assets/3f70907c-a1d7-478d-a490-27a7fe7f7125)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
